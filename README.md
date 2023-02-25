@@ -1,3 +1,5 @@
+In this Nextjs React project, was make a Full Stack Food/Pizza React delivery application. Here React hooks, modern CSS,  global state management with Zustand, Stripe payment integration, and many more were used to build this application. Also developed cash on the delivery payment method to make this site more functional and practical.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
